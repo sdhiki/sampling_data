@@ -1,5 +1,4 @@
-# Tugas Sheeling Tools
-## Sampling Data
+# Tugas Sheeling Tools - Sampling Data
 
 ## Penjelasan Kode
 1. Download file
